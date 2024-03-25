@@ -1,0 +1,63 @@
+@font-face {
+  font-family: "zantrokeregular";
+  src:
+    url("fonts/zantroke-webfont.woff2") format("woff2"),
+    url("fonts/zantroke-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Basteleur Moonlight";
+  src:
+    url("./fonts/Basteleur-Moonlight.woff2") format("woff2"),
+    url("./fonts/Basteleur-Moonlight.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Basteleur Bold";
+  src:
+    url("./fonts/Basteleur-Bold.woff2") format("woff2"),
+    url("./fonts/Basteleur-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: bold;
+}
+
+@font-face {
+  font-family: "Redation 100";
+  src:
+    url("./fonts/Redactio_100-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*
+Basteleur-Bold.woff
+Basteleur-Bold.woff2
+Basteleur-Moonlight.woff
+Basteleur-Moonlight.woff2
+fonts.css
+Redaction_100-Bold.woff2
+Redaction_100-Italic.woff2
+Redaction_100-Regular.woff2
+Redaction_10-Bold.woff2
+Redaction_10-Italic.woff2
+Redaction_10-Regular.woff2
+Redaction_20-Bold.woff2
+Redaction_20-Italic.woff2
+Redaction_20-Regular.woff2
+Redaction_35-Bold.woff2
+Redaction_35-Italic.woff2
+Redaction_35-Regular.woff2
+Redaction_50-Bold.woff2
+Redaction_50-Italic.woff2
+Redaction_50-Regular.woff2
+Redaction_70-Bold.woff2
+Redaction_70-Italic.woff2
+Redaction_70-Regular.woff2
+Redaction-Bold.woff2
+Redaction-Italic.woff2
+Redaction-Regular.woff2
+*/
